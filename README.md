@@ -9,5 +9,5 @@ Send the link to your solution to the person that requested the excersice
 
 Any questions  
 
-for devs: talent@webstarted.com  
-for companies: info@webstarted.com
+for devs: talent at webstarted.com  
+for companies: info at webstarted.com
