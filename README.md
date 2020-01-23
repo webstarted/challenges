@@ -1,6 +1,6 @@
 # challenges
 
-Resolve the problem and upload the solution to your own repository
+Resolve the problem and upload the solution to your own repository or use an online tool   
 Send the link to your solution to the person that requested the excersice
 
 
